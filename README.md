@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @stefamaru (Dimitris). I'm a PhD student at Univ. of Patras, Physics Dept.
+- 👋 Hi, I’m @stefamaru (Dimitris). I'm a  postdoc at Univ. Sorbonne Paris Nord and LSPM-CNRS.
 - 👀 I’m interested in machine learning applications in spectroscopy
-- 🌱 I’m currently learning Python 🐍 and Matlab
 - 💞️ I’m looking to collaborate on machine learning applications in 🐍
 - 📫 How to reach me: d.stefas@iceht.forth.gr (Institutional email) stefasdim@gmail.com (personal email/ I dont use it much)...
 
